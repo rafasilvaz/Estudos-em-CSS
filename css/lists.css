@@ -1,0 +1,9 @@
+/*MÚLTIPLOS ARQUIVOS CSS*/
+ul{
+    border: 1px solid blue;
+    padding: 15px;
+}
+
+li{
+    color: darkblue;
+}
